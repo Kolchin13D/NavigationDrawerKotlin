@@ -15,7 +15,7 @@
         android:id="@+id/settings"
         android:title="Settings page" />
 
-    <group />
+    </group>
 
 
     <item android:title="Profile">
